@@ -1,6 +1,6 @@
 # Step for Beginners: 
-1.) Create a .mjs file sematically named (server or anything you like but mostly give it a server as you are deploying a server)
-2.) Create a .gitignore file
+1.)- [x] Create a .mjs file sematically named (server or anything you like but mostly give it a server as you- [x] are deploying a server)
+2.)- [x] Create a .gitignore file
 3.) run ""npm init -y" in the root directory of server.mjs => file named package.json will be created
 4.) add { "Start" : "node app.js"  } in package.json in the 'script' object
 5.) run "npm i express" (to install express as a local dependency) => package-lock.json will be created
